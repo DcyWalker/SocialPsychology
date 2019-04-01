@@ -107,7 +107,7 @@
 | ~~20190328(w4d4)~~ | ~~发布bp招募贴     团队成员：开来超~~             |
 | ~~20190329(w4d5)~~ | ~~观察员：Adon<br>邀请舟舟队长指导<br>观察员：Trista~~            |
 | ~~20190330(w4d6)~~ | ~~完成组队  新增队员：W慧贤~~<br>新增观察员：陶然 |
-| ~~20190331(w4d7)~~ | [~~发布BP，整理README~~](https://github.com/DcyWalker/SocialPsychology/tree/master)                        |
+| ~~20190331(w4d7)~~ | [~~发布BP，整理README~~](https://github.com/DcyWalker/SocialPsychology/tree/master)<br>新增观察员：钟慰                        |
 |                    | ~~新加入队员<br>观察员~~                          |
 
 
