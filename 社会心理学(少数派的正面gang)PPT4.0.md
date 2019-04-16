@@ -38,11 +38,13 @@
 ## 风暴中降生丹妮莉丝铁王座的合法继承人，安达尔人和先民的合法女王，七国的守护者，龙之母，草海上的卡丽熙，不焚者，解放者
 
 ![丹妮莉丝](https://ws2.sinaimg.cn/large/006tNc79ly1g23o280t09j30ag0agmyf.jpg)
+
 *确定少数派论点论据*
 *虽然我们在不断的给人解释，但是很累。为了我们坚定的信念，我们(主要是小白)做了大量的准备工作，更新中……*
 
 ## 小恶魔的策略
 ![小恶魔](https://ws3.sinaimg.cn/large/006tNc79ly1g23o2cuzdqj30hs0a0q3e.jpg)
+
 *一致而坚定的观点、灵活并且对多数人有吸引力、key people、让多数人认我们的意见更有效和更有价值*
 1. 召集有同样理念和观点的人，且有同样坚定信念的人组成一个小的团队。
 > *Serge Moscovici 和 Nemeth (1974年)认为，只要少数群体成员之间保持一致并达成一致，少数群体的影响力就是有效的。[^5]*
@@ -52,14 +54,23 @@
 
 ## 铁王座
 ![铁王座](https://ws2.sinaimg.cn/large/006tNc79ly1g23o2fqympj30p00dx405.jpg)
+
 **众从效应实现**
+
 [^1]: [Effects of group pressure upon the modification and distortion of judgments](https://psycnet.apa.org/record/1952-00803-001) 
+
 [^2]: [Gardikiotis, A. (2011). "Minority influence". Social And Personality Psychology Compass. 5 (9): 679–693. ](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1751-9004.2011.00377.x)
+
 [^3]: Sampson, E. (1991). Social worlds, personal lives: An introduction to social psychology. (6th Ed.) San Diego, CA: Harcourt Brace Jovanovich.
+
 [^4]: [Crano, W. D.; Seyranian, V. (2007). "Majority and minority influence". Social and Personality Psychology Compass. 1 (1): 572–589](https://psycnet.apa.org/record/2008-07777-034)
+
 [^5]: [Minority influence](https://en.wikipedia.org/wiki/Minority_influence#cite_note-Aronson,_E._2007-13)
+
 [^]: [Asch, S. E. Social psychology. Englewood Cliffs, N.J.: Prentice-Hall, 1952.](https://psycnet.apa.org/record/2004-16341-000)Asch (1952年)进行了一项研究，在向一个群体提出的一系列问题中，实验对象将有两个"伴侣"中的一个陪同: a)一个同意受试者的少数观点的伴侣，或者 b)一个比多数人更不正确的伴侣。 Asch 发现，不论"伙伴"的作用如何，即使只有一个人("神奇数字1")打破了共识，这一事实也足以使从众降低到多数，并增加少数人观点的可信度。
 
 [^6]: [When rigidity does not fail: Individualization and psychologization as resistances to the diffusion of minority innovations](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2420100104)
+
 [^7]: Van Avermaet, E. (1996). "Social influence in small groups". Introduction to Social Psychology: A European Perspective (2nd Ed.). Blackwell.
+
 [^8]: [Wood, W., Lundgren, S., Ouellette, J., Busceme, S., & Blackstone, T. (1994). "Minority Influence: A Meta-Analytic Review of Social Influence Processes". Psychological Bulletin. Vol 115, No 3, pp. 323-345.](http://europepmc.org/abstract/med/8016284)
